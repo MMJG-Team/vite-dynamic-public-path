@@ -1,0 +1,16 @@
+{
+  "name": "vite-dynamic-public-path",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:playground": "pnpm -r --filter \"./packages/playground\" run dev",
+
+    "build": "pnpm -r --filter \"./packages/html-public-path\" build",
+    "build:playground": "pnpm -r --filter \"./packages/playground\" build",
+    "prod:playground": "pnpm -r --filter \"./packages/playground\" prod"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
