@@ -1,4 +1,7 @@
 # vite-plugin-html-public-path
+[![version](https://img.shields.io/npm/v/vite-plugin-html-public-path.svg)](https://www.npmjs.com/package/vite-plugin-html-public-path)
+[![downloads](https://badgen.net/npm/dt/vite-plugin-html-public-path)](https://www.npmjs.com/package/vite-plugin-html-public-path)
+
 Implement dynamic `public path` in index.html
 
 # Why need the plugin? 
