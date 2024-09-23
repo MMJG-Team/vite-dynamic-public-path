@@ -1,5 +1,10 @@
 # vite-plugin-html-public-path
+
+why need this plugin? sometime, we need to set the `public path` dynamically, for example, when we use `vite` to build the project, we need to set the `public path` according to the environment. but, we can't set the `public path` in the `index.html` file, so we need to use this plugin to transform all static `link/script` tags to dynamic tags
+
 implement dynamic public path in index.html
+
+![alt text](image.png)
 
 ## Install
 
