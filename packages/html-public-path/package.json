@@ -13,7 +13,14 @@
   "scripts": {
     "build": "tsc && vite build"
   },
-  "keywords": [],
+  "keywords": [
+    "vite",
+    "plugin",
+    "html",
+    "public-path",
+    "dynamic",
+    "transform"
+  ],
   "author": "",
   "license": "ISC",
   "devDependencies": {
