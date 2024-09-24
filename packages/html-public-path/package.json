@@ -1,7 +1,7 @@
 {
   "name": "vite-plugin-html-public-path",
   "version": "1.0.0",
-  "description": "",
+  "description": "Implement dynamic public path in index.html",
   "main": "dist/index.umd.js",
   "module": "dist/index.es.js",
   "files": [
@@ -21,7 +21,7 @@
     "dynamic",
     "transform"
   ],
-  "author": "",
+  "author": "MMJG-Team",
   "license": "ISC",
   "devDependencies": {
     "prettier": "^3.3.3",
